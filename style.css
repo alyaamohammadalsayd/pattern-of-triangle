@@ -1,0 +1,9 @@
+canvas {
+  background: #f0f0f0;
+  display: block;
+  margin: 0 auto;
+}
+body {
+  text-align: center;
+  font-family: Arial;
+}
